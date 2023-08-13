@@ -33,4 +33,26 @@
 .rtl .wpmf-sorts-dropdown {
     margin-right: 8px;
 }
+
+.rtl .wpmf-dialog-container h5 {
+  text-align: right;
+}
+
+.rtl .wpmf-item > .wpmf-item-inside > a[data-id="0"] > .wpmf-item-title {
+  text-align: right;
+}
+
+.rtl .wpmf-attachment .mdc-list-item__text {
+  text-align: justify;
+}
+
+.rtl .wpmf-snackbar-wrapper {
+  left: 20px;
+  right: auto;
+}
+
+.rtl .wpmfclosedlg {
+  right: auto;
+  left: 10px;
+}
 /* End rtl Style by Mehr.ban@Chmail.ir */
