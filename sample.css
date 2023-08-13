@@ -139,11 +139,6 @@ ul.jaofiletree li {
   float: right;
 }
 
-.jaofiletree li.directory_users.collapsed_users .icon-open-close::before, .jaofiletree li.directory_library.collapsed_library .icon-open-close::before {
-  /* content: '\f2f6'; */
-  content: '\25c4';
-}
-
 #wpmf_patern {
   /* margin-left: 20px; */
   margin-right: 20px;
