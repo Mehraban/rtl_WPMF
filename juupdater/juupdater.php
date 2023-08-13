@@ -1,3 +1,4 @@
+/* ...::: One Free Online Tool for Compare ==> https://www.comparetext.net :::... */
 /* Start Convert Comment Line of 116 to 151*/
 /*public function __construct(
     $metadataUrl,
