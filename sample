@@ -1,0 +1,248 @@
+
+/* setting_style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/setting_style.css?ver=5.5.13 */
+
+.top_bar h1 {
+  /* float: left; */
+  float: right;
+}
+
+.top_bar .btn_wpmf_saves, .top_bar .btn_wpmf_saves #btn_wpmf_save {
+  /* float: right; */
+  float: left;
+}
+
+.ju-settings-option {
+  /* float: left; */
+  /* margin-right: 15px; */
+  float: right;
+  margin-left: 15px;
+  margin-right: auto;
+}
+
+.rtl .wpmf_row_full .text {
+  float: ;
+}
+
+.ju-setting-label {
+  /* padding-left: 20px; */
+  padding-right: 20px;
+  padding-left: unset;
+}
+
+.m-r-0 {
+  /* margin-right: 0; */
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.wpmf_left {
+  /* float: left; */
+  float: right;
+}
+
+.div_list_child {
+  /* left: 0; */
+  right: 0;
+  left: auto;
+}
+
+.accordion-section.open .zmdi-chevron-up {
+  /* float: right; */
+  float: left;
+}
+
+.accordion-section .zmdi-chevron-down {
+  /* float: right; */
+  float: left;
+}
+
+.pure-checkbox input[type="checkbox"] + label {
+  /* padding-left: 2em; */
+  padding-right: 2em;
+  padding-left: unset;
+}
+
+.pure-checkbox input[type="checkbox"] + label::before {
+  /* left: 0; */
+  right: 0;
+  left: auto;
+}
+
+.pure-checkbox input[type="checkbox"] + label::after {
+  /* left: 4px; */
+  right: 4px;
+  left: auto;
+}
+
+.label_text_bold {
+  /* margin-right: 10px; */
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+.wpmf_text_right {
+  /* text-align: right; */
+  text-align: left;
+}
+
+.description {
+  /* text-align: left; */
+  text-align: right;
+}
+
+.content_list_padding span {
+  /* float: left; */
+  float: right;
+}
+
+.wrap_left {
+  /* float: left; */
+  float: right;
+}
+
+.wpmfcard {
+  /* margin-left: -10px; */
+  margin-right: -10px;
+  margin-left: auto;
+}
+
+.radio {
+  /* float: left; */
+  float: right;
+  padding: ;
+}
+
+.wpmf_copy_shortcode {
+  /* right: 0; */
+  left: 0;
+  right: auto;
+}
+
+.wpmf_right {
+  /* float: right; */
+  float: left;
+}
+
+.p-r-20 {
+  /* padding-right: 20px; */
+  padding-left: 20px;
+  padding-right: unset;
+}
+
+ul.jaofiletree li {
+  /* padding: 0 0 0 20px; */
+  padding: 0 0px 0 20px;
+}
+
+.icon-open-close {
+  /* float: left; */
+  float: right;
+}
+
+.jaofiletree li.directory_users.collapsed_users .icon-open-close::before, .jaofiletree li.directory_library.collapsed_library .icon-open-close::before {
+  /* content: '\f2f6'; */
+  content: '\25c4';
+}
+
+#wpmf_patern {
+  /* margin-left: 20px; */
+  margin-right: 20px;
+  margin-left: auto;
+}
+
+.wrap_right {
+  /* float: right; */
+  float: left;
+}
+
+.jaofiletree .zmdi-folder, .jaofiletree .zmdi-folder-outline {
+  /* margin-left: 4px; */
+  margin-right: 4px;
+  margin-left: auto;
+}
+
+.jaofiletree li.directory span.check {
+  /* margin-right: 10px; */
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+.input_dir .dir_name_ftp {
+  /* float: left; */
+  float: right;
+}
+
+.input_dir .dir_name_categories {
+  /* float: right; */
+  float: left;
+}
+
+.wrap_dir_name_ftp {
+  /* float: left; */
+  float: right;
+}
+
+.wrap_dir_name_categories {
+  /* float: right; */
+  float: left;
+}
+
+.wpmf-folder-tree ul {
+  /* padding-left: 20px; */
+  padding-right: 20px;
+  padding-left: unset;
+}
+
+.wpmf-folder-tree .wpmf-no-arrow {
+  /* margin-left: 28px; */
+  margin-left: 20px;
+}
+
+.wpmf-folder-tree .material-icons {
+  /* margin-right: auto; */
+}
+
+.delete-syncftp-item {
+  /* margin-left: 5px !important; */
+  margin-right: 5px !important;
+  margin-left: 5px;
+}
+
+.right-checkbox {
+  /* float: right; */
+  /* padding-right: 30px; */
+  float: left;
+  padding-left: 30px;
+  padding-right: unset;
+}
+
+/* style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/wordpress-css-framework/css/style.css?ver=5.5.13 */
+
+.ju-switch-button {
+  /* margin-left: 10px; */
+  /* margin-right: 30px; */
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+/* Element | https://rtl-demo.hozeh-host.ir/wp-admin/options-general.php?page=option-folder#wp_gallery_shortcode */
+
+div.wpmf_width_100:nth-child(15) > div:nth-child(1) > label:nth-child(1) {
+  /* left: 0; */
+  right: 0;
+  left: auto;
+}
+
+/* jaofiletree.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/jaofiletree.css?ver=5.5.13 */
+
+ul.jaofiletree li.drive {
+  /* padding-left: 15px; */
+  padding-right: 15px;
+  padding-right: unset;
+}
+
+ul.jaofiletree li ul li {
+  /* margin-left: 10px; */
+  margin-right: 10px;
+  margin-left: auto;
+}
