@@ -31,4 +31,7 @@
 .rtl ul.jaofiletree a.title-folder, .title-wpmfaddFolder {
   padding: 0 5px 0 0;
 }
+.rtl .wpmflocaltree .pure-checkbox input[type="checkbox"] + label::after {
+  right: 4px;
+  left: auto;
 /* End rtl Style by Mehr.ban@Chmail.ir */
