@@ -51,12 +51,12 @@
 }
 
 .rtl .pure-checkbox input[type="checkbox"] + label::before {
-  right: 0;
+  right: 5px;
   left: auto;
 }
 
 .rtl .pure-checkbox input[type="checkbox"] + label::after {
-  right: 4px;
+  right: 9px;
   left: auto;
 }
 
@@ -170,14 +170,5 @@
   float: left;
   padding-left: 30px;
   padding-right: unset;
-}
-.rtl .pure-checkbox input[type="checkbox"] + label::before {
-  /* right: 0; */
-  right: 5px;
-}
-
-.rtl .pure-checkbox input[type="checkbox"] + label::after {
-  /* right: 4px; */
-  right: 9px;
 }
 /* End rtl Style by Mehr.ban@Chmail.ir */
