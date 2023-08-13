@@ -213,6 +213,10 @@ ul.jaofiletree li {
 
 /* style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/wordpress-css-framework/css/style.css?ver=5.5.13 */
 
+.rtl .ju-main-wrapper .ju-left-panel .tabs.ju-menu-tabs li.tab a.link-tab::after {
+  left: 15px;
+  right: auto;
+}
 .ju-switch-button {
   /* margin-left: 10px; */
   /* margin-right: 30px; */
