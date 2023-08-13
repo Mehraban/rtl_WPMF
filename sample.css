@@ -240,6 +240,50 @@ ul.jaofiletree li.drive {
   padding-right: unset;
 }
 
+
+/*......................*/
+
+/* mdl-jquery-modal-dialog.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/modal-dialog/mdl-jquery-modal-dialog.css?ver=5.5.13 */
+
+.dialog-button-bar {
+  /* text-align: right; */
+  text-align: left;
+}
+
+/* style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/style.css?ver=5.5.13 */
+
+.wpmf-dialog-container #negative {
+  /* margin-right: 10px !important; */
+  margin-left: 10px !important;
+  margin-right: auto;
+}
+
+.wpmf-contextmenu li .items_menu, .wpmf-contextmenu .submenu li .items_menu {
+  /* text-align: left !important; */
+  text-align: right !important;
+}
+
+.wpmf_icon {
+  /* float: left; */
+  /* margin-right: 10px; */
+  float: right;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+.delete_role_permissions {
+  /* right: -40px; */
+  left: -40px;
+  right: auto;
+}
+
+/* magnific-popup.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/display-gallery/magnific-popup.css?ver=5.5.13 */
+
+.mfp-content {
+  /* text-align: left; */
+  text-align: right;
+}
+
 ul.jaofiletree li ul li {
   /* margin-left: 10px; */
   margin-right: 10px;
