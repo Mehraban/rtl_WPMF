@@ -1,0 +1,21 @@
+/* style.css | /assets/css/style.css?ver=5.5.13 */
+
+.rtl .wpmf-dialog-container #negative {
+  margin-left: 10px !important;
+  margin-right: auto;
+}
+
+.rtl .wpmf-contextmenu li .items_menu, .wpmf-contextmenu .submenu li .items_menu {
+  text-align: right !important;
+}
+
+.rtl .wpmf_icon {
+  float: right;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+.rtl .delete_role_permissions {
+  left: -40px;
+  right: auto;
+}
