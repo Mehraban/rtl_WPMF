@@ -289,3 +289,33 @@ ul.jaofiletree li ul li {
   margin-right: 10px;
   margin-left: auto;
 }
+/*..................*/
+
+/* style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/style.css?ver=5.5.13 */
+
+
+
+/* jaofiletree.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/jaofiletree.css?ver=5.5.13 */
+
+.rtl .wpmflocaltree, #wpmfcloudtreeimport {
+  border-right: 2px solid #49bf88;
+  float: right;
+  border-left: none;
+}
+
+.rtl ul.jaofiletree li {
+  padding: 0 8px 0 0;
+}
+
+.rtl .icon-open-close {
+  float: right;
+}
+
+.rtl .jaofiletree .zmdi-folder-outline {
+  margin-right: 4px;
+  margin-left: auto;
+}
+
+.rtl ul.jaofiletree a.title-folder, .title-wpmfaddFolder {
+  padding: 0 5px 0 0;
+}
