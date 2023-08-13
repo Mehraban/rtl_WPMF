@@ -1,7 +1,7 @@
 /* setting_style.css | /assets/css/setting_style.css?ver=5.5.13 */
 
 @import url('https://v1.fontapi.ir/css/Estedad:400;500;600;700;800;900');
-.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, .rtl div, .rtl span, .rtl input, .rtl label, .rtl button, .rtl ul, .rtl li, .rtl a{
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, .rtl div, .rtl span, .rtl input, .rtl label, .rtl button, .rtl ul, .rtl li, .rtl a, .rtl select, .rtl option{
     font-family: Estedad, sans-serif !important;
     letter-spacing: normal !important;
 }
