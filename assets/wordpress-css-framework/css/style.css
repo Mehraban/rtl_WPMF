@@ -1,9 +1,7 @@
 
-/* style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/wordpress-css-framework/css/style.css?ver=5.5.13 */
+/* style.css | /assets/wordpress-css-framework/css/style.css?ver=5.5.13 */
 
-.ju-switch-button {
-  /* margin-left: 10px; */
-  /* margin-right: 30px; */
+.rtl .ju-switch-button {
   margin-left: 30px;
   margin-right: 10px;
 }
