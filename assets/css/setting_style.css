@@ -1,5 +1,10 @@
 /* setting_style.css | /assets/css/setting_style.css?ver=5.5.13 */
 
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, .rtl div, .rtl span, .rtl input, .rtl label, .rtl button, .rtl ul, .rtl li, .rtl a{
+    font-family:  tahoma !important;
+    letter-spacing: normal !important;
+}
+
 .rtl .top_bar h1 {
   float: right;
 }
