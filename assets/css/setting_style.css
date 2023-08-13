@@ -1,18 +1,14 @@
-/* setting_style.css | https://rtl-demo.hozeh-host.ir/wp-content/plugins/wp-media-folder/assets/css/setting_style.css?ver=5.5.13 */
+/* setting_style.css | /assets/css/setting_style.css?ver=5.5.13 */
 
-.top_bar h1 {
-  /* float: left; */
+.rtl .top_bar h1 {
   float: right;
 }
 
-.top_bar .btn_wpmf_saves, .top_bar .btn_wpmf_saves #btn_wpmf_save {
-  /* float: right; */
+.rtl .top_bar .btn_wpmf_saves, .top_bar .btn_wpmf_saves #btn_wpmf_save {
   float: left;
 }
 
-.ju-settings-option {
-  /* float: left; */
-  /* margin-right: 15px; */
+.rtl .ju-settings-option {
   float: right;
   margin-left: 15px;
   margin-right: auto;
@@ -22,173 +18,142 @@
   float: ;
 }
 
-.ju-setting-label {
-  /* padding-left: 20px; */
+.rtl .ju-setting-label {
   padding-right: 20px;
   padding-left: unset;
 }
 
-.m-r-0 {
-  /* margin-right: 0; */
+.rtl .m-r-0 {
   margin-left: 0;
   margin-right: auto;
 }
 
-.wpmf_left {
-  /* float: left; */
+.rtl .wpmf_left {
   float: right;
 }
 
-.div_list_child {
-  /* left: 0; */
+.rtl .div_list_child {
   right: 0;
   left: auto;
 }
 
-.accordion-section.open .zmdi-chevron-up {
-  /* float: right; */
+.rtl .accordion-section.open .zmdi-chevron-up {
   float: left;
 }
 
-.accordion-section .zmdi-chevron-down {
-  /* float: right; */
+.rtl .accordion-section .zmdi-chevron-down {
   float: left;
 }
 
-.pure-checkbox input[type="checkbox"] + label {
-  /* padding-left: 2em; */
+.rtl .pure-checkbox input[type="checkbox"] + label {
   padding-right: 2em;
   padding-left: unset;
 }
 
-.pure-checkbox input[type="checkbox"] + label::before {
-  /* left: 0; */
+.rtl .pure-checkbox input[type="checkbox"] + label::before {
   right: 0;
   left: auto;
 }
 
-.pure-checkbox input[type="checkbox"] + label::after {
-  /* left: 4px; */
+.rtl .pure-checkbox input[type="checkbox"] + label::after {
   right: 4px;
   left: auto;
 }
 
-.label_text_bold {
-  /* margin-right: 10px; */
+.rtl .label_text_bold {
   margin-left: 10px;
   margin-right: auto;
 }
 
-.wpmf_text_right {
-  /* text-align: right; */
+.rtl .wpmf_text_right {
   text-align: left;
 }
 
-.description {
-  /* text-align: left; */
+.rtl .description {
   text-align: right;
 }
 
-.content_list_padding span {
-  /* float: left; */
+.rtl .content_list_padding span {
   float: right;
 }
 
-.wrap_left {
-  /* float: left; */
+.rtl .wrap_left {
   float: right;
 }
 
-.wpmfcard {
-  /* margin-left: -10px; */
+.rtl .wpmfcard {
   margin-right: -10px;
   margin-left: auto;
 }
 
-.radio {
-  /* float: left; */
+.rtl .radio {
   float: right;
   padding: ;
 }
 
-.wpmf_copy_shortcode {
-  /* right: 0; */
+.rtl .wpmf_copy_shortcode {
   left: 0;
   right: auto;
 }
 
-.wpmf_right {
-  /* float: right; */
+.rtl .wpmf_right {
   float: left;
 }
 
-.p-r-20 {
-  /* padding-right: 20px; */
+.rtl .p-r-20 {
   padding-left: 20px;
   padding-right: unset;
 }
 
-ul.jaofiletree li {
-  /* padding: 0 0 0 20px; */
-  padding: 0 0px 0 20px;
+.rtl ul.jaofiletree li {
+  padding: 0 0 0 20px;
 }
 
-.icon-open-close {
-  /* float: left; */
+.rtl .icon-open-close {
   float: right;
 }
 
-#wpmf_patern {
-  /* margin-left: 20px; */
+.rtl #wpmf_patern {
   margin-right: 20px;
   margin-left: auto;
 }
 
-.wrap_right {
-  /* float: right; */
+.rtl .wrap_right {
   float: left;
 }
 
-.jaofiletree .zmdi-folder, .jaofiletree .zmdi-folder-outline {
-  /* margin-left: 4px; */
+.rtl .jaofiletree .zmdi-folder, .jaofiletree .zmdi-folder-outline {
   margin-right: 4px;
   margin-left: auto;
 }
 
-.jaofiletree li.directory span.check {
-  /* margin-right: 10px; */
+.rtl .jaofiletree li.directory span.check {
   margin-left: 10px;
   margin-right: auto;
 }
 
-.input_dir .dir_name_ftp {
-  /* float: left; */
+.rtl .input_dir .dir_name_ftp {
   float: right;
 }
 
-.input_dir .dir_name_categories {
-  /* float: right; */
+.rtl .input_dir .dir_name_categories {
   float: left;
 }
 
-.wrap_dir_name_ftp {
-  /* float: left; */
+.rtl .wrap_dir_name_ftp {
   float: right;
 }
 
-.wrap_dir_name_categories {
-  /* float: right; */
+.rtl .wrap_dir_name_categories {
   float: left;
 }
 
-.wpmf-folder-tree ul {
-  /* padding-left: 20px; */
+.rtl .wpmf-folder-tree ul {
   padding-right: 20px;
   padding-left: unset;
 }
 
-.wpmf-folder-tree .wpmf-no-arrow {
-  /* margin-left: 28px; */
+.rtl .wpmf-folder-tree .wpmf-no-arrow {
   margin-left: 20px;
 }
 
@@ -196,15 +161,12 @@ ul.jaofiletree li {
   /* margin-right: auto; */
 }
 
-.delete-syncftp-item {
-  /* margin-left: 5px !important; */
+.rtl .delete-syncftp-item {
   margin-right: 5px !important;
   margin-left: 5px;
 }
 
-.right-checkbox {
-  /* float: right; */
-  /* padding-right: 30px; */
+.rtl .right-checkbox {
   float: left;
   padding-left: 30px;
   padding-right: unset;
