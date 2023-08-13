@@ -5,4 +5,8 @@
   margin-left: 30px;
   margin-right: 10px;
 }
+
+.rtl .ju-setting-label {
+  max-width: calc(100% - 115px);
+}
 /* End rtl Style by Mehr.ban@Chmail.ir */
