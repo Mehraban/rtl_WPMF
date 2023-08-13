@@ -1,4 +1,4 @@
-/* Delete Line of 116 to 151*/
+/* Start Convert Comment Line of 116 to 151*/
 /*public function __construct(
     $metadataUrl,
     $pluginFile,
@@ -35,4 +35,39 @@
 
     $this->installHooks();
 }*/
-/* Delete Line of 116 to 151*/
+
+/* End Convert Comment Line of 116 to 151*/
+
+/* Start Convert Comment Line of 910 to 939*/
+
+/*$updater_capability = apply_filters('ju_updater_user_can', current_user_can('update_plugins'), 'update_plugins');
+if ($isRelevant && $updater_capability) {
+    $linkUrl = wp_nonce_url(
+        add_query_arg(
+            array(
+                'puc_check_for_updates' => 1,
+                'puc_slug'              => $this->slug,
+            ),
+            is_network_admin() ? network_admin_url('plugins.php') : admin_url('plugins.php')
+        ),
+        'puc_check_for_updates'
+    );
+
+    $linkText = apply_filters('puc_manual_check_link-' . $this->slug, 'Check for updates');
+    if (!empty($linkText)) {
+        $pluginMeta[] = sprintf('<a href="%s">%s</a>', esc_attr($linkUrl), $linkText);
+    }
+
+    $ju_token = get_option('ju_user_token');
+    $link     = JU_BASE . 'index.php?option=com_juupdater&view=login&tmpl=component&site=' . admin_url() . '
+    &TB_iframe=true&width=300&height=305';
+
+    if (empty($ju_token)) {
+        $pluginMeta[] = sprintf(
+            '<span style="color: #ff6200" class="dashicons dashicons-warning"></span>In order to access updates please link your account : <a class="thickbox ju_update" href="%s">%s</a>',
+            esc_attr($link),
+            'JoomUnited Login'
+        );
+    }
+}*/
+/* Start Convert Comment Line of 910 to 939*/
