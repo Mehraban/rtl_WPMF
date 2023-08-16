@@ -78,4 +78,9 @@
   right: 0;
   left: auto;
 }
+
+html:lang(fa) {
+  overflow-x: hidden;
+}
+
 /* End rtl Style by Mehr.ban@Chmail.ir */
