@@ -1,0 +1,49 @@
+/* install-wizard.css | /class/install-wizard/install-wizard.css?ver=5.5.13 */
+/* Start rtl Style by Mehr.ban@Chmail.ir */
+@import url('https://v1.fontapi.ir/css/Estedad:400;500;600;700;800;900');
+ h1:lang(fa), h2:lang(fa), h3:lang(fa), h4:lang(fa), .rtl h5, .rtl h6, div:lang(fa), .description:lang(fa), 
+.go-to-dash span:lang(fa), input:lang(fa), label:lang(fa), button:lang(fa), ul:lang(fa), li:lang(fa), a:lang(fa),:lang(fa) select:lang(fa), .rtl option{
+    font-family: Estedad, sans-serif !important;
+    letter-spacing: normal !important;
+}
+
+ .wpmf-wizard-steps ul.wizard-steps li:lang(fa)  {
+  padding-left: 60px;
+  padding-right: unset;
+}
+
+.wpmf-wizard-steps ul.wizard-steps li:not(:last-child)::before {
+  margin-right: 20px;
+  margin-left: unset;
+}
+
+.wpmf_row_full:lang(fa) {
+  float: right;
+}
+
+.ju-setting-label:lang(fa) {
+  float: right;
+  padding-right: 20px;
+  padding-left: unset;
+}
+
+.right-checkbox:lang(fa) {
+  float: left;
+  padding-left: 30px;
+  padding-right: unset;
+}
+
+.ju-switch-button:lang(fa) {
+  float: left;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+.wizard-content .description:lang(fa) {
+  float: right;
+}
+
+.text_left:lang(fa) {
+  text-align: right;
+}
+/* End rtl Style by Mehr.ban@Chmail.ir */
