@@ -10,8 +10,7 @@
   max-width: calc(100% - 115px);
 }
 .rtl .ju-main-wrapper .ju-left-panel .tabs.ju-menu-tabs li.tab a.link-tab:after {
-
-    left: 15px;
-    right: auto;
+  left: 15px !important;
+  right: auto;
 }
 /* End rtl Style by Mehr.ban@Chmail.ir */
