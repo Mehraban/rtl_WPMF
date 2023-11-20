@@ -9,4 +9,9 @@
 .rtl .ju-setting-label {
   max-width: calc(100% - 115px);
 }
+.rtl .ju-main-wrapper .ju-left-panel .tabs.ju-menu-tabs li.tab a.link-tab:after {
+
+    left: auto;
+    right: 15px
+}
 /* End rtl Style by Mehr.ban@Chmail.ir */
