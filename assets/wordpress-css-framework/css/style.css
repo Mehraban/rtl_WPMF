@@ -11,7 +11,7 @@
 }
 .rtl .ju-main-wrapper .ju-left-panel .tabs.ju-menu-tabs li.tab a.link-tab:after {
 
-    left: auto;
-    right: 15px;
+    left: 15px;
+    right: auto;
 }
 /* End rtl Style by Mehr.ban@Chmail.ir */
